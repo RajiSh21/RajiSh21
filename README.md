@@ -1,94 +1,151 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm RajiSh
 
-💡 Curious learner passionate about **technology, problem solving, and building impactful projects**.  
-🚀 Currently exploring **AI, software development, and open-source collaboration**.  
-🌱 I enjoy learning new tools, building practical projects, and continuously improving my skills.
-
----
-
-## 🚀 About Me
-
-- 🎓 Student passionate about technology and innovation
-- 💻 Interested in **AI, Software Development, and Tech Communities**
-- 📚 Currently learning **Machine Learning, Web Development, and Problem Solving**
-- 🤝 Love collaborating and sharing knowledge with others
-- 🎯 Goal: Build impactful projects and grow as a developer
+💡 Passionate about **Artificial Intelligence, Software Development, and Building Practical Systems**
+🚀 I enjoy developing solutions that improve **automation, efficiency, and information flow**
+🌱 Continuously learning and improving through **projects, experimentation, and collaboration**
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🚀 About Me
 
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-
-**Web Development**
-
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
+* 🎓 Technology enthusiast focused on **AI and Software Engineering**
+* 💻 Interested in **Artificial Intelligence, Cybersecurity, and Full-Stack Development**
+* 🔍 Passionate about building systems that solve **real-world problems**
+* 📚 Currently strengthening my knowledge in **Machine Learning, System Design, and Advanced Programming**
+* 🎯 Goal: Build **intelligent and scalable software solutions**
 
 ---
 
-## 📌 Projects
+# 🛠️ Technical Skills
 
-### 🔹 Project 1 – [Project Name]
-📄 Short description of what the project does.  
-⚙️ Technologies used: Python / HTML / etc.  
-🔗 Repository: https://github.com/username/project
+### Programming Languages
 
-### 🔹 Project 2 – [Project Name]
-📄 Short description of the project and its purpose.  
-⚙️ Technologies used: JavaScript / API / etc.  
-🔗 Repository: https://github.com/username/project
+* Python
+* C
+* C++
+* Java
 
-### 🔹 Project 3 – [Project Name]
-📄 Brief description and what problem it solves.  
-⚙️ Technologies used: Tools or frameworks.
+### Core Computer Science
 
----
+* Object Oriented Programming (OOP)
+* Data Structures & Algorithms (DSA)
+* Database Management Systems (DBMS)
 
-## 📈 GitHub Stats
+### Web Development
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+* React
+* Node.js
+* npm
+* Vite
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+### Databases
 
----
+* SQL
+* MySQL
 
-## 🔥 Contribution Streak
+### Artificial Intelligence
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+* Machine Learning Fundamentals
+* AI-based Threat Detection
 
----
+### Advanced Programming
 
-## 🌱 Learning Journey
-
-I believe in **continuous learning and growth**.  
-Currently exploring:
-
-- Artificial Intelligence
-- Machine Learning
-- Open Source Contribution
-- Advanced Web Development
-
-Every project I build helps me **learn, improve, and solve real problems**.
+* Java Servlets
+* Java Server Pages (JSP)
 
 ---
 
-## 🤝 Let's Connect
+# 📌 Featured Projects
 
-🌐 GitHub: https://github.com/YOURUSERNAME  
-💼 LinkedIn: [Add your LinkedIn link]  
-📧 Email: [your email]
+## 🏫 Smart Campus Assistant (MERN Stack)
+
+A **full-stack campus management system** designed to improve the workflow of educational institutions and ensure efficient communication between administration and students.
+
+### Features
+
+* Centralized academic information management
+* Improved information flow across the organization
+* Student access to announcements and academic resources
+* Simplified management of daily institutional workflows
+
+### Technologies
+
+MongoDB • Express.js • React • Node.js
 
 ---
 
-⭐ *“Learning by building, improving by sharing.”*
+## 🛡️ AI Network Intrusion Detection System
+
+An **AI-powered cybersecurity system** that monitors network traffic and identifies potential security threats.
+
+### Features
+
+* Real-time network packet monitoring
+* Detection of malicious traffic patterns
+* Machine learning models for anomaly detection
+* Helps improve organizational network security
+
+### Technologies
+
+Python • Machine Learning • Network Packet Analysis
+
+---
+
+## 🏨 Hotel Management System
+
+A **desktop-based hotel management application** designed to manage hotel operations efficiently.
+
+### Features
+
+* Customer check-in and check-out management
+* Room availability and booking tracking
+* Simplified administrative operations
+
+### Technologies
+
+Java • JavaFX • MySQL
+
+---
+
+# 🌐 Portfolio
+
+🔗 **Portfolio Website**
+https://rajishpande.com.np
+
+---
+
+# 📊 GitHub Statistics
+
+---
+
+# 🔥 Contribution Activity
+
+This automatically updates whenever I commit or contribute.
+
+---
+
+# 🌱 Learning Journey
+
+I strongly believe in **learning by building real systems**.
+Through continuous experimentation and project development, I am expanding my expertise in:
+
+* Artificial Intelligence & Machine Learning
+* Full Stack Application Development
+* Cybersecurity & Network Monitoring
+* Advanced Algorithms & Problem Solving
+
+Every project represents **a step forward in my growth as a developer**.
+
+---
+
+# 🤝 Connect With Me
+
+🌐 Portfolio: https://rajishpande.com.np
+💼 LinkedIn: https://www.linkedin.com/in/rajishpande/
+💻 GitHub: https://github.com/RajiSh21
+📧 Email: [rajishpandey508@gmail.com](mailto:rajishpandey508@gmail.com)
+📱 WhatsApp: +977 9800890137
+
+---
+
+⭐ *Always building, always learning.*
