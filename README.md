@@ -1,151 +1,35 @@
-# 👋 Hi, I'm RajiSh
+# Hi 👋, I'm Rajish
 
-💡 Passionate about **Artificial Intelligence, Software Development, and Building Practical Systems**
-🚀 I enjoy developing solutions that improve **automation, efficiency, and information flow**
-🌱 Continuously learning and improving through **projects, experimentation, and collaboration**
+### Passionate about Artificial Intelligence, Software Development, and Building Practical Systems
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajiSh21&label=Profile views&color=0e75b6&style=flat" alt="RajiSh21" /> </p>
 
-# 🚀 About Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajiSh21" alt="RajiSh21" /></a> </p>
 
-* 🎓 Technology enthusiast focused on **AI and Software Engineering**
-* 💻 Interested in **Artificial Intelligence, Cybersecurity, and Full-Stack Development**
-* 🔍 Passionate about building systems that solve **real-world problems**
-* 📚 Currently strengthening my knowledge in **Machine Learning, System Design, and Advanced Programming**
-* 🎯 Goal: Build **intelligent and scalable software solutions**
+- 🔭 I'm currently working on **AI Network Intrusion Detection System
+An AI-powered cybersecurity system that monitors network traffic and identifies potential security threats.**
 
----
+- 🌱 I'm currently learning **Tensorflow**
 
-# 🛠️ Technical Skills
+- 👯 I'm looking to collaborate on **Open source project**
 
-### Programming Languages
+- 📫 How to reach me **Rajishpandey508@gmail.com**
 
-* Python
-* C
-* C++
-* Java
+- 👨‍💻 All of my projects are available at **[https://rajishpandey.com.np/](https://rajishpandey.com.np/)**
 
-### Core Computer Science
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1dAyR0Sr7iVkbcM__NIqxqZfso0oHFVJ2/view?usp=drive_link](https://drive.google.com/file/d/1dAyR0Sr7iVkbcM__NIqxqZfso0oHFVJ2/view?usp=drive_link)**
 
-* Object Oriented Programming (OOP)
-* Data Structures & Algorithms (DSA)
-* Database Management Systems (DBMS)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/RajiSh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RajiSh21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajishpande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajishpande/" height="30" width="40" /></a>
+</p>
 
-### Web Development
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a></p>
 
-* React
-* Node.js
-* npm
-* Vite
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RajiSh21&show_icons=true&locale=en&layout=compact" alt="RajiSh21" /></p>
 
-### Databases
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RajiSh21&show_icons=true&locale=en" alt="RajiSh21" /></p>
 
-* SQL
-* MySQL
-
-### Artificial Intelligence
-
-* Machine Learning Fundamentals
-* AI-based Threat Detection
-
-### Advanced Programming
-
-* Java Servlets
-* Java Server Pages (JSP)
-
----
-
-# 📌 Featured Projects
-
-## 🏫 Smart Campus Assistant (MERN Stack)
-
-A **full-stack campus management system** designed to improve the workflow of educational institutions and ensure efficient communication between administration and students.
-
-### Features
-
-* Centralized academic information management
-* Improved information flow across the organization
-* Student access to announcements and academic resources
-* Simplified management of daily institutional workflows
-
-### Technologies
-
-MongoDB • Express.js • React • Node.js
-
----
-
-## 🛡️ AI Network Intrusion Detection System
-
-An **AI-powered cybersecurity system** that monitors network traffic and identifies potential security threats.
-
-### Features
-
-* Real-time network packet monitoring
-* Detection of malicious traffic patterns
-* Machine learning models for anomaly detection
-* Helps improve organizational network security
-
-### Technologies
-
-Python • Machine Learning • Network Packet Analysis
-
----
-
-## 🏨 Hotel Management System
-
-A **desktop-based hotel management application** designed to manage hotel operations efficiently.
-
-### Features
-
-* Customer check-in and check-out management
-* Room availability and booking tracking
-* Simplified administrative operations
-
-### Technologies
-
-Java • JavaFX • MySQL
-
----
-
-# 🌐 Portfolio
-
-🔗 **Portfolio Website**
-https://rajishpande.com.np
-
----
-
-# 📊 GitHub Statistics
-
----
-
-# 🔥 Contribution Activity
-
-This automatically updates whenever I commit or contribute.
-
----
-
-# 🌱 Learning Journey
-
-I strongly believe in **learning by building real systems**.
-Through continuous experimentation and project development, I am expanding my expertise in:
-
-* Artificial Intelligence & Machine Learning
-* Full Stack Application Development
-* Cybersecurity & Network Monitoring
-* Advanced Algorithms & Problem Solving
-
-Every project represents **a step forward in my growth as a developer**.
-
----
-
-# 🤝 Connect With Me
-
-🌐 Portfolio: https://rajishpande.com.np
-💼 LinkedIn: https://www.linkedin.com/in/rajishpande/
-💻 GitHub: https://github.com/RajiSh21
-📧 Email: [rajishpandey508@gmail.com](mailto:rajishpandey508@gmail.com)
-📱 WhatsApp: +977 9800890137
-
----
-
-⭐ *Always building, always learning.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RajiSh21&" alt="RajiSh21" /></p>
