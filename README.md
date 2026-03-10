@@ -2,9 +2,7 @@
 
 ### Passionate about Artificial Intelligence, Software Development, and Building Practical Systems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=RajiSh21&label=Profile views&color=0e75b6&style=flat" alt="RajiSh21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RajiSh21" alt="RajiSh21" /></a> </p>
 
 - 🔭 I'm currently working on **AI Network Intrusion Detection System
 An AI-powered cybersecurity system that monitors network traffic and identifies potential security threats.**
