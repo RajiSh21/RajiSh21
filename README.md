@@ -4,8 +4,6 @@
 
 
 
-- 🔭 I'm currently working on **AI Network Intrusion Detection System
-An AI-powered cybersecurity system that monitors network traffic and identifies potential security threats.**
 
 - 🌱 I'm currently learning **Tensorflow**
 
