@@ -2,7 +2,7 @@
 
 ### Passionate about Artificial Intelligence, Software Development, and Building Practical Systems
 
-
+I am a Computer Engineering student passionate about Artificial Intelligence, Software Development, and Cybersecurity. I enjoy building practical systems using technologies like Python, React, and Machine Learning to solve real-world problems. Through continuous learning and hands-on projects, I aim to develop intelligent and scalable solutions that improve efficiency and automation.
 
 
 - 🌱 I'm currently learning **Tensorflow**
