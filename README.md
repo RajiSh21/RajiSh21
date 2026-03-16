@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rajish
+# Hi 👋, I'm Rajish Pandey
 
 ### Passionate about Artificial Intelligence, Software Development, and Building Practical Systems
 ---
