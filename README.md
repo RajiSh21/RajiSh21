@@ -7,8 +7,6 @@ I am a Computer Engineering student passionate about Artificial Intelligence, So
 
 - 🌱 I'm currently learning **Tensorflow**
 
-
-
 - 👯 I'm looking to collaborate on **Open source project**
 
 - 📫 How to reach me **Rajishpandey508@gmail.com**
