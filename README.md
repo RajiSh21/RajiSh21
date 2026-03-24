@@ -23,6 +23,7 @@ I am a Computer Engineering student passionate about Artificial Intelligence, So
 | :---: | :---: |
 | <img src="https://github-stats-extended.vercel.app/api?username=RajiSh21&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="400" /> <br/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RajiSh21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajiSh21&theme=dark&hide_border=false" width="400" /> |
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/RajiSh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RajiSh21" height="30" width="40" /></a>
@@ -30,7 +31,6 @@ I am a Computer Engineering student passionate about Artificial Intelligence, So
 </p>
 
 
----
 [![](https://visitcount.itsvg.in/api?id=RajiSh21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
