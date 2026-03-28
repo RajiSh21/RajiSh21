@@ -48,6 +48,3 @@ I am a Computer Engineering student passionate about **Artificial Intelligence**
   <a href="https://linkedin.com/in/rajishpande" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajishpande" height="30" width="40" /></a>
 </p>
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=RajiSh21&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Visitor Count" />
-</div>
