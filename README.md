@@ -1,35 +1,53 @@
-# Hi 👋, I'm Rajish Pandey
+<div align="center">
+  <h1>Hi 👋, I'm Rajish Pandey</h1>
+  <p><strong>Computer Engineering Student | AI Enthusiast | Full-Stack Developer</strong></p>
 
-### Passionate about Artificial Intelligence, Software Development, and Building Practical Systems
----
-I am a Computer Engineering student passionate about Artificial Intelligence, Software Development, and Cybersecurity. I enjoy building practical systems using technologies like Python, React, and Machine Learning to solve real-world problems. Through continuous learning and hands-on projects, I aim to develop intelligent and scalable solutions that improve efficiency and automation.
-
-- 🌱 I'm currently learning **Pytorch** (Tensorflow is completed)
-
-- 👯 I'm looking to collaborate on **Open source project**
-
-- 📫 How to reach me **Rajishpandey508@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://rajishpandey.com.np/](https://rajishpandey.com.np/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1dAyR0Sr7iVkbcM__NIqxqZfso0oHFVJ2/view?usp=drive_link](https://drive.google.com/file/d/1dAyR0Sr7iVkbcM__NIqxqZfso0oHFVJ2/view?usp=drive_link)**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Scalable+AI+Systems;Full-Stack+Web+Developer;Cybersecurity+Explorer;Learning+PyTorch+and+LLMs" alt="Typing SVG" />
+</div>
 
 ---
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
 
-| **General Stats & Languages** | **Contribution Streak** |
-| :---: | :---: |
-| <img src="https://github-stats-extended.vercel.app/api?username=RajiSh21&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="400" /> <br/> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RajiSh21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajiSh21&theme=dark&hide_border=false" width="400" /> |
+### 👨‍💻 About Me
+I am a Computer Engineering student passionate about **Artificial Intelligence**, **Software Development**, and **Cybersecurity**. I specialize in building intelligent systems that automate workflows and solve real-world problems.
+
+- 🌱 Currently mastering **PyTorch** for Deep Learning.
+- 👯 Looking to contribute to **Open Source** AI/ML projects.
+- 💼 View my Portfolio: [rajishpandey.com.np](https://rajishpandey.com.np/)
+- 📄 My Resume: [Download/View PDF](https://drive.google.com/file/d/1dAyR0Sr7iVkbcM__NIqxqZfso0oHFVJ2/view?usp=drive_link)
 
 ---
-<h3 align="left">Connect with me:</h3>
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white) |
+| **Backend/Web** | ![FastAPI](https://img.shields.io/badge/-FastAPI-005571?logo=fastapi) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) |
+
+---
+
+### 📊 GitHub Data & Activity
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=RajiSh21&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RajiSh21&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajiSh21&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🤝 Connect with me:
 <p align="left">
-<a href="https://github.com/RajiSh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RajiSh21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajishpande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rajishpande/" height="30" width="40" /></a>
+  <a href="https://github.com/RajiSh21" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RajiSh21" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rajishpande" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajishpande" height="30" width="40" /></a>
 </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=RajiSh21&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=RajiSh21&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Visitor Count" />
+</div>
