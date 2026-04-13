@@ -37,7 +37,7 @@ I am a Computer Engineering student passionate about **Artificial Intelligence**
   
   <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajiSh21&theme=tokyonight&border_radius=4)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajiSh21&theme=tokyonight&border_radius=4&count_private=true)](https://git.io/streak-stats)
 </div>
 
 ---
