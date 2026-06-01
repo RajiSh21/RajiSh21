@@ -29,7 +29,7 @@ I am a Computer Engineering student passionate about **Artificial Intelligence**
 
 ---
 
-### 📊 GitHub Data & Activity
+### 📊 GitHub Data & Activity_
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=RajiSh21&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180px" />
   
